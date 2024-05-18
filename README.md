@@ -32,3 +32,10 @@ Extracts the insights from four years of Sales data to analyze the profit trends
 ☑ Age_Group Profit Distribution: 50-plus persons contributed more than other age groups.
 
 ☑ Top Sales Across Countries: USA and Australia contributed 60.1% of total profit.
+
+### Final Dashboard:
+
+![image](https://github.com/rjaveria/Adventure_Sales_and_Profit_Analysis_Dashboard/assets/140335140/22ab08bc-bd94-4bae-bd72-0fcf70bdfb3e)
+![image](https://github.com/rjaveria/Adventure_Sales_and_Profit_Analysis_Dashboard/assets/140335140/b102b446-2240-4cfb-a473-beb9a7fcfb7d)
+
+
